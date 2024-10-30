@@ -52,3 +52,11 @@ footer {
     align-items: center;
 
 }
+.ig {
+  display:flex ;
+
+}
+.wa {
+    height: 30px;
+    display: flex;
+}
